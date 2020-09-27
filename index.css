@@ -1,6 +1,7 @@
 body	{
-	background-color:grey;
-	margin:0;
+	
+	background-color:#2d2f2f;
+	margin: 0;
 	
 	
 }
@@ -12,39 +13,47 @@ body	{
 }
 
 #header {
-	background-color:black;
+	background-color:blue;
 	height:100px;
 	line-height:80px;
 }
 #header2 {
-	background-color:black;
+	background-color:green;
 	height:40px;
 	line-height:20px;
 	font-size:24;
 }
 .Title {
-	color:red;
-	padding-left:30px;
+	color:Yellow;
+	padding-left:20px;
 	font-family:sans-serif;
 }
 
 .Title p{
-	color:blue;
+	color:white;
 	vertical-align:top;
 }
 
 #nav {
 	float:right;
 	background-color:#2d2f2f;
-	height:748px;
+	height:740px;
 	width:200px;
 }
-.Navigation{
+
+
+
+.Navigation li{
+	
+	padding-top: 100px;
 	
 }
 
 
+
+
 #content{
+	background-image:url("HK.png");
 	height:700px;
 	
 		
