@@ -53,11 +53,9 @@ body	{
 
 
 #content{
-	background-color:red;
-	background-size: 100%;
+	background-image:url("HK.png");
 	height:700px;
-	width:900px;
-	display:block;
+	
 		
 }
 .Wall{
