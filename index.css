@@ -1,7 +1,8 @@
 body{
 	padding:0;
 	margin:0;
-	
+	height:100%;
+	width:100%;
 	background-color:#2d2f2f;
 }
 
@@ -32,7 +33,7 @@ section{
 aside{
 	
 	height:40%;
-	width:30%;
+	width:35%;
 	background-color:yellow;
 	float:right;
 }
