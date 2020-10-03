@@ -10,32 +10,28 @@ header{
 	
 	height:40%;
 	width:100%;
-	background-color:green;
+	background-color:#63E769;
 }
 
 nav{
 	
 	height:40%;
 	width:100%;
-	background-color:black;
+	background-color:yellow;
 }
 
 article{
 	height:100%;
 	width:100%;
-	background-color:white;
+	background-color:#DFE776;
 }
 section{
 	height:40%;
 	width:100%;
-	background-color:blue;
+	background-color:skyblue;
 }
 aside{
 	
-	height:40%;
-	width:35%;
-	background-color:yellow;
-	float:right;
 }
 
 footer{
