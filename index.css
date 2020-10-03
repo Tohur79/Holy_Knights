@@ -1,0 +1,52 @@
+body{
+	padding:0;
+	margin:0;
+	height:100%;
+	width:100%;
+	background-image:url("01.jpg");
+}
+
+header{
+	
+	height:40%;
+	width:100%;
+	background-color:green;
+}
+
+nav{
+	
+	height:40%;
+	width:100%;
+	background-color:black;
+}
+
+article{
+	height:100%;
+	width:100%;
+	background-color:white;
+}
+section{
+	height:40%;
+	width:100%;
+	background-color:blue;
+}
+aside{
+	
+	height:40%;
+	width:40%;
+	background-color:yellow;
+	float:right;
+}
+
+footer{
+	height:40%;
+	width:100%;
+	background-color:red;
+}
+
+
+
+
+
+
+
