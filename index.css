@@ -19,7 +19,13 @@ nav{
 	width:100%;
 	background-color:yellow;
 }
-
+table{
+	width:100%;
+	
+}
+td {
+	border: solid blue 2px;
+}
 article{
 	height:100%;
 	width:100%;
@@ -30,7 +36,10 @@ section{
 	width:100%;
 	background-color:skyblue;
 }
-aside{
+img{
+	float:right;
+	
+	width:20%;
 	
 }
 
